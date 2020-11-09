@@ -1,43 +1,33 @@
 ## intent:search_transactions
-- how much did u spend at [Target](vendor_name)?
-- what is my typical spending at [Amazon](vendor_name)?
 - I want to search my transactions with [amazon](vendor_name)
-- how much did i spend at [Starbucks](vendor_name)?
+- how much did u spend at [Target](vendor_name)?
 - i want to check my spending history at [starbucks](vendor_name)
 - can I see my transactions with [target](vendor_name)
 
 ## intent:check_balance
-- How much money is in my account?
-- What's left on that account?
 - How much do I have on that my account?
-- What's my account balance
 - What's my account balance?
+- How much money is in my account?
 - how much money is in my account
 
 ## intent:goodbye
-- see you later
-- goodbye
-- i'm done
+- bye
 - quit
 - stop
-- bye
+- see you later
 
 ## intent:greet
-- good morning
-- hi
-- hey there
-- hey
 - good evening
-- hello
+- good morning
+- hey there
+- hi
 
 ## intent:thankyou
-- thank you goodbye
 - okay thank you goodbye
-- thank you bye
-- um okay thank you good bye
-- thank you
-- and thats all thank you and good bye
-- okay thank you
 - thanks
 - thanks goodbye
+- okay thank you
+- and thats all thank you and good bye
 - thank you and good bye
+- thank you bye
+- thank you
